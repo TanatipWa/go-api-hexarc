@@ -1,3 +1,8 @@
+cd product-api
+
+go build
+
+go run main.go
 
 ```
 go-api
