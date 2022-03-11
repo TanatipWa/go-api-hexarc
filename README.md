@@ -2,6 +2,8 @@ cd product-api
 
 go build
 
+add unique mongouri in config pkg
+
 go run main.go
 
 ```
