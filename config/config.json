@@ -6,7 +6,7 @@
   "database": {
     "mongodb": {
       "timeout": 5000,
-      "mongouri": "mongodb+srv://admin:1234@cluster0.5l48e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+      "mongouri": "<mongouri>",
       "dbname": "productdb"
     }
   }
